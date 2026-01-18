@@ -58,12 +58,5 @@ Deux interfaces ont été développées pour tester le système en temps réel :
 
 ---
 
-##  5. Structure des Codes Sources
-* [Inférence CLIP Zero Shot (Base)](./Inférence_CLIP_Zero_Shot_(Base).ipynb): Évaluation initiale du modèle.
-* [Fine Tuning de CLIP (Apprentissage Contrastif)](./Fine_Tuning_de_CLIP_(Apprentissage_Contrastif).ipynb) : Pipeline d'entraînement et tests finaux.
-* `df_final_sauvegarde.xlsx` : Base de données indexée avec chemins et légendes.
-
----
-
 ##  Conclusion
 Le Fine-Tuning a permis de transformer CLIP en un expert du domaine patrimonial. Le système est capable de compenser les erreurs de numérisation ou les altérations physiques des documents, garantissant une intégrité parfaite de la base de données (Recall 100%).
